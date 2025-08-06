@@ -1,9 +1,13 @@
-## Hi there 👋
+## Oi! Sou o Marcos Henrique, bem - vindo. 👋
+
+📖 Estudante de Ciência da Computação (UNICSUL)
+📧 Contate - me no email: marcosribeiro011@outlook.com / https://www.linkedin.com/in/marcos-henrique-ribeiro-4a8939172/
+
 
 <!--
 **Marcoshr011/Marcoshr011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
