@@ -1,7 +1,7 @@
 ## Oi! Sou o Marcos Henrique, bem - vindo. 👋
 
-📖 Estudante de Ciência da Computação (UNICSUL)
-📧 Contate - me no email: marcosribeiro011@outlook.com / https://www.linkedin.com/in/marcos-henrique-ribeiro-4a8939172/
+📖 Estudante de Ciência da Computação (UNICSUL) | Aspirante a programador JAVA;PHYTON 
+📧 Contate - me no email: marcosribeiro011@outlook.com / https://www.linkedin.com/in/marcos-ribeiro-azevedo/
 
 
 <!--
